@@ -35,7 +35,7 @@ function draw() {
     imageElement.src = canvas.toDataURL("image/png");
   };
 
-  template.src = "https://raw.githubusercontent.com/tmporter/dog-wif-hat-generator/master/template.png";
+  template.src = "https://raw.githubusercontent.com/tmporter/dog-wif-hat-generator/master/images/template.png";
 }
 
 function save() {
