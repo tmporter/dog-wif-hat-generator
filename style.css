@@ -42,3 +42,12 @@ section#main {
 section#main > * {
   margin-bottom: 10px;
 }
+
+canvas#canvas {
+  display: none;
+}
+
+#controls {
+  display: flex;
+  align-items: center;
+}
